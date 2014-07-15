@@ -1,0 +1,4 @@
+[
+{"name":"Wire tx fee","regexp":"^FEE-Fee-Intl Wire", "tx_label": "International TX Fee", "dest_account": "Expenses:Bank Service Charge" },
+{"name":"Google App Svc","regexp":"^GOOGLE \\*SVCSAPPS_", "tx_label": "Google App Services", "dest_account": "Expenses:Internet Services" }
+]
